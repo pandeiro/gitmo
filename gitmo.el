@@ -15,7 +15,6 @@
 ;;; Code:
 
 (require 'f)
-(require 'restroom)
 (require 'elnode)
 (require 'json)
 
