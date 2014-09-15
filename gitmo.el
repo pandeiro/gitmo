@@ -89,5 +89,10 @@
   (gitmo-ensure-directories)
   (elnode-start 'gitmo-dispatcher :port 7000 :host "localhost"))
 
-;; Usage: (gitmo-run)
+;; Usage:
+
+;(require 'gitmo)
+
+;(gitmo-run)
+
 
