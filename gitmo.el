@@ -42,8 +42,7 @@
   (concat "git://github.com/" user "/" repo))
 
 ;; Assets
-(defvar gitmo-index
-  "
+(defvar gitmo-index "
 <!doctype html>
 <html>
   <head>
